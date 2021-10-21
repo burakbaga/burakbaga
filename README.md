@@ -7,8 +7,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=burakbaga&show_icons=true&locale=en" alt="burakbaga" /></p>
 
-<p align="left"> <a href="https://twitter.com/12" target="blank"><img src="https://img.shields.io/twitter/follow/12?logo=twitter&style=for-the-badge" alt="12" /></a> </p>
-
 
 - 📝 I regularly write articles on [https://bagataburak.medium.com/](https://bagataburak.medium.com/)
 
