@@ -7,7 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/12" target="blank"><img src="https://img.shields.io/twitter/follow/12?logo=twitter&style=for-the-badge" alt="12" /></a> </p>
 
-- 🌱 I’m currently learning **Computer Vision**
 
 - 📝 I regularly write articles on [https://bagataburak.medium.com/](https://bagataburak.medium.com/)
 
