@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=burakbaga&label=Profile%20views&color=0e75b6&style=flat" alt="burakbaga" /> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=burakbaga&show_icons=true&locale=en" alt="burakbaga" /></p>
-
 
 - 📝 I regularly write articles on [https://bagataburak.medium.com/](https://bagataburak.medium.com/)
 
@@ -45,6 +43,10 @@
  <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
  <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
  </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=burakbaga&show_icons=true&locale=en" alt="burakbaga" /></p>
+
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=burakbaga&show_icons=true&locale=en&layout=compact" alt="burakbaga" /></p>
 
