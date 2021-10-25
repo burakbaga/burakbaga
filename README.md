@@ -12,11 +12,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [2.Deep Convolutional Generative Adversarial Network (DCGAN)](https://bagataburak.medium.com/2-deep-convolutional-neural-networks-dcgan-b81812ba1733?source=rss-bbafcb2bda47------2)
 - [1. Generative Adversarial Networks (Vanilla GANs)](https://bagataburak.medium.com/1-generative-adversarial-networks-7f568d93eed2?source=rss-bbafcb2bda47------2)
 - [Neural Style Transfer (Nöral Stil Transferi)](https://bagataburak.medium.com/neural-style-transfer-n%C3%B6ral-stil-transferi-bd2b5d45f601?source=rss-bbafcb2bda47------2)
 - [Class Activation Maps](https://bagataburak.medium.com/class-activation-maps-94a3f50f254b?source=rss-bbafcb2bda47------2)
 - [CNN ve LSTM Modelleri Kullanarak Image Captioning (Resim Altyazısı)](https://bagataburak.medium.com/cnn-ve-lstm-modelleri-kullanarak-image-captioning-resim-altyaz%C4%B1s%C4%B1-8d86b453cb43?source=rss-bbafcb2bda47------2)
-- [Keras Funtional API Genel Bakış](https://bagataburak.medium.com/keras-funtional-api-genel-bak%C4%B1%C5%9F-d5c48118ace8?source=rss-bbafcb2bda47------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
