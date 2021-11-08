@@ -14,9 +14,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Derin Öğrenme ile Kusur Tespiti ve Segmentasyon İşlemi](https://bagataburak.medium.com/derin-%C3%B6%C4%9Frenme-ile-kusur-tespiti-ve-segmentasyon-i%CC%87%C5%9Flemi-f137486637ec?source=rss-bbafcb2bda47------2)
 - [KMeans ile Kullanıcıların Segmentlere Ayrılması](https://bagataburak.medium.com/kmeans-ile-kullan%C4%B1c%C4%B1lar%C4%B1n-segmentlere-ayr%C4%B1lmas%C4%B1-969441f7bd09?source=rss-bbafcb2bda47------2)
-- [2.Deep Convolutional Generative Adversarial Network (DCGAN)](https://bagataburak.medium.com/2-deep-convolutional-neural-networks-dcgan-b81812ba1733?source=rss-bbafcb2bda47------2)
-- [1. Generative Adversarial Networks (Vanilla GANs)](https://bagataburak.medium.com/1-generative-adversarial-networks-7f568d93eed2?source=rss-bbafcb2bda47------2)
-- [Neural Style Transfer (Nöral Stil Transferi)](https://bagataburak.medium.com/neural-style-transfer-n%C3%B6ral-stil-transferi-bd2b5d45f601?source=rss-bbafcb2bda47------2)
+- [2.Deep Convolutional Generative Adversarial Network &lpar;DCGAN&rpar;](https://bagataburak.medium.com/2-deep-convolutional-neural-networks-dcgan-b81812ba1733?source=rss-bbafcb2bda47------2)
+- [1. Generative Adversarial Networks &lpar;Vanilla GANs&rpar;](https://bagataburak.medium.com/1-generative-adversarial-networks-7f568d93eed2?source=rss-bbafcb2bda47------2)
+- [Neural Style Transfer &lpar;Nöral Stil Transferi&rpar;](https://bagataburak.medium.com/neural-style-transfer-n%C3%B6ral-stil-transferi-bd2b5d45f601?source=rss-bbafcb2bda47------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
